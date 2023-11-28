@@ -1,0 +1,11 @@
+C:\Users\14111\source\repos\SerialportMvp\SerialportMvp\bin\Debug\SerialportMvp.exe.config
+C:\Users\14111\source\repos\SerialportMvp\SerialportMvp\bin\Debug\SerialportMvp.exe
+C:\Users\14111\source\repos\SerialportMvp\SerialportMvp\bin\Debug\SerialportMvp.pdb
+C:\Users\14111\source\repos\SerialportMvp\SerialportMvp\obj\Debug\SerialportMvp.csproj.AssemblyReference.cache
+C:\Users\14111\source\repos\SerialportMvp\SerialportMvp\obj\Debug\SerialportMvp.csproj.SuggestedBindingRedirects.cache
+C:\Users\14111\source\repos\SerialportMvp\SerialportMvp\obj\Debug\SerialportMvp.Properties.Resources.resources
+C:\Users\14111\source\repos\SerialportMvp\SerialportMvp\obj\Debug\SerialportMvp.csproj.GenerateResource.cache
+C:\Users\14111\source\repos\SerialportMvp\SerialportMvp\obj\Debug\SerialportMvp.csproj.CoreCompileInputs.cache
+C:\Users\14111\source\repos\SerialportMvp\SerialportMvp\obj\Debug\SerialportMvp.exe
+C:\Users\14111\source\repos\SerialportMvp\SerialportMvp\obj\Debug\SerialportMvp.pdb
+C:\Users\14111\source\repos\SerialportMvp\SerialportMvp\obj\Debug\SerialportMvp.View.Form1.resources
